@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,cAAe,CACf,YACF,CAEA,MACE,YAAa,CACb,cACF","file":"main.951ec6ad.chunk.css","sourcesContent":["body {\r\n  font-size: 18px;\r\n  padding: 40px;\r\n}\r\n\r\ninput {\r\n  padding: 10px;\r\n  font-size: 20px;\r\n}\r\n"]}
